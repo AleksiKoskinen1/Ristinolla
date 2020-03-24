@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">RistiNolla</string>
+    <string name="button1"></string>
+    <string name="button2"></string>
+    <string name="button3"></string>
+    <string name="button4"></string>
+    <string name="button5"></string>
+    <string name="button6"></string>
+    <string name="button7"></string>
+    <string name="button8"></string>
+    <string name="button9"></string>
+    <string name="Settings">Settings</string>
+    <string name="newgame">New Game</string>
+    <string name="exit">Exit</string>
+    <string name="previous">Takaisin </string>
+    <string name="vaikeus">Valitse Vaikeustaso: </string>
+    <string name="helppo">Helppo </string>
+    <string name="normaali">Normaali </string>
+    <string name="vaikea">Vaikea </string>
+    <string name="helpposcores">Helpon tilastot: </string>
+    <string name="normaaliscores">Normaalin tilastot: </string>
+    <string name="vaikeascores">Vaikean tilastot: </string>
+    <string name="alltimewins">Kokonais voitot: </string>
+    <string name="alltimelosses">Kokonais tappiot: </string>
+    <string name="draw">Kokonais tasapelit: </string>
+    <string name="easywins">0 </string>
+    <string name="easylosses">0 </string>
+    <string name="normalwins">0 </string>
+    <string name="normallosses">0 </string>
+    <string name="hardwins">0 </string>
+    <string name="hardlosses">0 </string>
+    <string name="easydraw">0 </string>
+    <string name="normaldraw">0 </string>
+    <string name="harddraw">0 </string>
+    <string name="seeDB">Scores</string>
+    <string name="resetDB">Reset Scores</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
